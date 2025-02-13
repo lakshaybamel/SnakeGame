@@ -183,3 +183,4 @@ while True:
     time.sleep(delay)  # Pause the loop to control the game speed
 
 wn.mainloop()  # Keep the window open
+#The End
